@@ -7,6 +7,9 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
-/rugged-choir-398914-e074525cfd1e.json
-/.env
+.venv/
+
+# Credentials and environment files
+rugged-choir-398914-e074525cfd1e.json
+.env
+config/credentials.json
